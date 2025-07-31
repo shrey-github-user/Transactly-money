@@ -1,0 +1,17 @@
+{
+  "transactions": [],
+  "categories": {
+    "income": [
+      "Salary",
+      "Freelance",
+      "Investment"
+    ],
+    "expense": [
+      "Food",
+      "Transportation",
+      "Utilities",
+      "Entertainment",
+      "1"
+    ]
+  }
+}
